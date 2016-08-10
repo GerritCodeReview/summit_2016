@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "79357b61_229a8e5d",
+        "filename": "sessions/new-in-2.12.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2016-08-10T06:55:21Z",
+      "side": 1,
+      "message": "Is it worth adding \"and 2.13\" as well?\nGerrit 2.13 shouldn\u0027t be far away and has some very interesting features like LFS.",
+      "range": {
+        "startLine": 1,
+        "startChar": 23,
+        "endLine": 1,
+        "endChar": 27
+      },
+      "revId": "6cbde6823c73361c45dbb847c6d56efd099daa22",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
