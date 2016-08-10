@@ -22,6 +22,30 @@
       "revId": "6cbde6823c73361c45dbb847c6d56efd099daa22",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "19babf37_6fb391e6",
+        "filename": "sessions/new-in-2.12.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-08-10T07:04:45Z",
+      "side": 1,
+      "message": "Yes, but it should most likely be a separate talk by Hugo who is doing the 2.13 release.\n\nIn the last summit I did \"what\u0027s new in 2.11\" and \"what\u0027s coming in 2.12\" together because I was doing the release of both.",
+      "parentUuid": "79357b61_229a8e5d",
+      "range": {
+        "startLine": 1,
+        "startChar": 23,
+        "endLine": 1,
+        "endChar": 27
+      },
+      "revId": "6cbde6823c73361c45dbb847c6d56efd099daa22",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
