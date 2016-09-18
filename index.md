@@ -31,6 +31,7 @@ Pending proposals are [available in Gerrit][open].
 
 | Title | Presenter |
 |-------|-----------|
+| [Atomicity with change-sets](Atomicity-with-change-sets.md) | Basavaraj Kradakal, Juniper Networks |
 | [Gerrit Analytics](sessions/gerrit-analytics.md) | Luca Milanesio, GerritForge |
 | [Keep the conversation flowing](keep-the-converstion-flowing.md) | Khai Do, OpenStack |
 | [Update on PolyGerrit](sessions/polygerrit.md) | Andrew Bonventre, Google |
