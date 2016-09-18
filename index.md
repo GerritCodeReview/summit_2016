@@ -23,3 +23,16 @@ To propose a session, please upload a code review:
   git push origin HEAD:refs/for/master
 ```
 
+Pending proposals are [available in Gerrit][open].
+
+[open]: https://gerrit-review.googlesource.com/#/q/is:open+project:summit/2016
+
+## Selected Sessions
+
+| Title | Presenter |
+|-------|-----------|
+| [Gerrit Analytics](sessions/gerrit-analytics.md) | Luca Milanesio, GerritForge |
+| [Keep the conversation flowing](keep-the-converstion-flowing.md) | Khai Do, OpenStack |
+| [Zero-downtime Gerrit upgrades](zero-downtime-upgrade.md) | Luca Milanesio,GerritForge |
+| [What's New in 2.12](new-in-2.12.md) | David Pursehouse, CollabNet |
+
