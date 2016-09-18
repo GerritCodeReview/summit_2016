@@ -31,10 +31,10 @@ Pending proposals are [available in Gerrit][open].
 
 | Title | Presenter |
 |-------|-----------|
-| [Atomicity with change-sets](Atomicity-with-change-sets.md) | Basavaraj Kradakal, Juniper Networks |
-| [Gerrit Analytics](sessions/gerrit-analytics.md) | Luca Milanesio, GerritForge |
-| [Keep the conversation flowing](keep-the-converstion-flowing.md) | Khai Do, OpenStack |
+| [Atomicity with change-sets](sessions/Atomicity-with-change-sets.md) | Basavaraj Kradakal, Juniper Networks |
+| [Gerrit analytics](sessions/gerrit-analytics.md) | Luca Milanesio, GerritForge |
+| [Keep the conversation flowing](sessions/keep-the-converstion-flowing.md) | Khai Do, OpenStack |
 | [Update on PolyGerrit](sessions/polygerrit.md) | Andrew Bonventre, Google |
-| [Zero-downtime Gerrit upgrades](zero-downtime-upgrade.md) | Luca Milanesio,GerritForge |
-| [What's New in 2.12](new-in-2.12.md) | David Pursehouse, CollabNet |
+| [Zero-downtime Gerrit upgrades](sessions/zero-downtime-upgrade.md) | Luca Milanesio,GerritForge |
+| [What's new in 2.12](sessions/new-in-2.12.md) | David Pursehouse, CollabNet |
 
