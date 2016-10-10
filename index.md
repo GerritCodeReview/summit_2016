@@ -4,9 +4,8 @@
 
 Saturday November 12 & Sunday 13 at Google Mountain View, CA.
 
-Registration is by invite and must be made in advance (no
-registrations at the door!).  Please complete this form to
-[request an invite](https://goo.gl/forms/oeEnQweHl2noNSnn1).
+Registration must be made in advance (no registrations
+at the door!), and is *closed*.
 
 ## Session Proposals
 
