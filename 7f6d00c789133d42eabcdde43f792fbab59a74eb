@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9cd86b0a_b1898009",
+        "filename": "sessions/infinite-gerrit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-10-16T23:21:20Z",
+      "side": 1,
+      "message": "nit: please wrap at 80 columns for easier readability in the side-by-side view.",
+      "revId": "7f6d00c789133d42eabcdde43f792fbab59a74eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9cd86b0a_918c7c1a",
+        "filename": "sessions/infinite-gerrit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-10-16T23:21:20Z",
+      "side": 1,
+      "message": "a?",
+      "range": {
+        "startLine": 14,
+        "startChar": 15,
+        "endLine": 14,
+        "endChar": 16
+      },
+      "revId": "7f6d00c789133d42eabcdde43f792fbab59a74eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
