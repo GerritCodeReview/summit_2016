@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3c605f88_a67d4627",
+        "filename": "sessions/gerrit-build-ci.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-10-19T23:21:37Z",
+      "side": 1,
+      "message": "Sbt?",
+      "range": {
+        "startLine": 5,
+        "startChar": 33,
+        "endLine": 5,
+        "endChar": 36
+      },
+      "revId": "90ea09d04d481a8148137ab6837df6ef32da71c2",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fc55e7ac_048d3614",
+        "filename": "sessions/gerrit-build-ci.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-10-19T23:21:37Z",
+      "side": 1,
+      "message": "nit: whitespace",
+      "range": {
+        "startLine": 8,
+        "startChar": 41,
+        "endLine": 8,
+        "endChar": 42
+      },
+      "revId": "90ea09d04d481a8148137ab6837df6ef32da71c2",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
