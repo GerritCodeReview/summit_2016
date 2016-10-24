@@ -35,5 +35,5 @@ Pending proposals are [available in Gerrit][open].
 | [Keep the conversation flowing](sessions/keep-the-converstion-flowing.md) | Khai Do, OpenStack |
 | [Update on PolyGerrit](sessions/polygerrit.md) | Andrew Bonventre, Google |
 | [Zero-downtime Gerrit upgrades](sessions/zero-downtime-upgrade.md) | Luca Milanesio,GerritForge |
-| [What's new in 2.12](sessions/new-in-2.12.md) | David Pursehouse, CollabNet |
+| [Overview of new releases](sessions/new-releases.md) | David Pursehouse, CollabNet |
 
