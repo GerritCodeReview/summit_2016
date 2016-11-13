@@ -10,3 +10,5 @@ This talk gives you an introduction to robot comments and how they will be
 implemented in Gerrit.
 
 *Edwin Kempin, Google*
+
+[slides](https://storage.googleapis.com/gerrit-talks/summit/2016/robot-comments.pdf)
