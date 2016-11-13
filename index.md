@@ -1,6 +1,6 @@
 # Mountain View 2016
 
-## Draft schedule
+## Schedule
 
 <iframe
   src="https://docs.google.com/spreadsheets/d/1kG60kY2ZNuaDGHIFWcTmhPtvzrlw1i8SHvtq-_FRrrw/pubhtml?gid=811932605&widget=true&headers=false"
