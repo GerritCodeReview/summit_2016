@@ -13,4 +13,6 @@ where every server can potentially read and write to any of the Cassandra nodes.
 adding additional Cassandra nodes and getting the quorum distribution
 out-of-the-box.
 
+[Slides (slideshare)](http://www.slideshare.net/HaithemJarraya/infinite-gerrit)
+
 *Haithem Jarraya, GerritForge*
