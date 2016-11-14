@@ -29,4 +29,6 @@ This talk with go over the motivation behind this plugin, it's status,
 how we plan to use it, and how it can help you keep the conversation
 flowing.
 
+[Slides (PDF)](https://storage.googleapis.com/gerrit-talks/summit/2016/keep-the-conversation-flowing.pdf)
+
 *Khai Do, OpenStack*
