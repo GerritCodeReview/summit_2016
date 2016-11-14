@@ -6,4 +6,6 @@ Gerrit build tool chain is an interesting journey with multiple stops:
 * Buck
 * Blaze, opps.. Bazel
 
-David Ostrovsky, Unaffiliated
+[Slides](http://ostrovsky.org/gerrit/bazel-build-gerrit/)
+
+*David Ostrovsky, Unaffiliated*
