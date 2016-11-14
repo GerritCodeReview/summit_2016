@@ -6,4 +6,6 @@ In this presentation you will learn how it works, why we have decided to
 implement it, how was it implemented and what were the choices we have made
 and challenges along the way.
 
+[Slides (slideshare)](http://www.slideshare.net/eryksz/bringing-pull-request-to-gerrit)
+
 *Eryk Szymanski, CollabNet*
