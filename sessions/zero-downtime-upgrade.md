@@ -13,4 +13,6 @@ Learn how GerritHub.io managed to:
 
 ... and keeping its 100% availability at the same time.
 
+[Slides](http://www.slideshare.net/lucamilanesio/zerodowntime-gerrit-code-review-upgrades)
+
 *Luca Milanesio,GerritForge*
