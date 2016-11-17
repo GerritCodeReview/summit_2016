@@ -14,4 +14,6 @@ change-sets created in the same sandbox .
 Come and find out how we use topic submission feature of Gerrit along with wrapper scripts,
 hooks and plugin to provide atomicity for changes throughout lifecycle of related changes.
 
+[Slides (PDF)](https://storage.googleapis.com/gerrit-talks/summit/2016/changesets.pdf)
+
 *Basavaraj Kradakal, Juniper Networks*
